@@ -1,0 +1,17 @@
+CONTOH:
+REFIXJumpToKernel
+R = RasyaOS
+EFI = Extensible Firmware Interface (Modul specific OS)
+X = Xclusive Module
+JumpToKernel = Nama Fungsi atau Prosedur
+
+other:
+p = private
+i = internal
+
+
+RUMUS:
+R + NAMA_PROYEK + NAMA_MODUL + NAMA_FUNGSI/PROSEDUR
+
+CONTOH LAIN:
+ROSX

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../BootloaderProj/BootloaderProj.vcxproj" Id="334b368f-38c7-4e6c-8a9d-c51adf858eb1" />
+  <Project Path="RASYAOS-RENDEROBJECT EDITION.vcxproj" Id="ccfce079-4076-4162-befe-b2eea499f6a9" />
+</Solution>
